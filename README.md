@@ -1,10 +1,9 @@
 # Zlochova 2230/1B
 
-## Seznam aktuálních témat:
+## Kontakty: 
+Výbor SVJ: zlochova2230@seznam.cz
 
-## Kontakt na SVJ: 
-zlochova2230@seznam.cz
-
+Property manager (domovník): Jakub Lyčka  tel. 774 731 738 jlycka@tvoeurope.com
 ## Archiv:
 
 ### 2026-02-18: __založení nástěnky__
