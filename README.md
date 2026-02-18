@@ -2,7 +2,7 @@
 
 ## Seznam aktuálních témat:
 
-## Kontakt na SVJ:
+## Kontakt na SVJ: zlochova2230@seznam.cz
 
 ## Archiv:
 
