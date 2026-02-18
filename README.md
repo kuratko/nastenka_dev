@@ -1,11 +1,15 @@
-# SVJ Zlochova 2230/1B
-
 ## Seznam aktuálních témat:
 
 
 
 
+## Kontakt na SVJ:
+
+
+
 ## Archiv:
+
+### 2026-02-18: __založení nástěnky__
 
 ### 2025-10-03: __Modřanka D - zasedání shromáždění vlastníků__
 
@@ -17,4 +21,3 @@ S pozdraven
 
 Jan Vošahlík
 
-### 2026-02-18: __založení nástěnky__
