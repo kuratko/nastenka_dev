@@ -1,10 +1,15 @@
 # Zlochova 2230/1B
 
 ## Kontakty: 
-Výbor SVJ: zlochova2230@seznam.cz
+Nástěnku spravuje výbor SVJ: zlochova2230@seznam.cz
 
-Property manager (domovník): Jakub Lyčka  tel. 774 731 738 jlycka@tvoeurope.com
-## Archiv:
+Property manager - správce/domovník: Jakub Lyčka  tel. 774 731 738 jlycka@tvoeurope.com
+## Aktuality:
+
+### 2026-02-18: __Kolísání teploty teplé vody (TUV)__
+V současné době není hlášen žádný výpadek a teplá voda by měla téci. Pokud zaznamenáte, že v domácnosti neteče dostatečně teplá voda, hlašte problém výboru nebo správci. Je nutno uvést, o jaký byt se jedná a v kolik hodin teplá voda netekla - velmi to pomůže zjistit příčinu. 
+
+Dodavatel Veolia byl o náhodných výkyvech informován. Na naše zásobníky s teplou vodou budou přidány teplotní poměrová čidla, aby byla ověřena teplota vody během dne. 
 
 ### 2026-02-18: __založení nástěnky__
 
