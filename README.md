@@ -1,11 +1,8 @@
+# Zlochova 2230/1B
+
 ## Seznam aktuálních témat:
 
-
-
-
 ## Kontakt na SVJ:
-
-
 
 ## Archiv:
 
