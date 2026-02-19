@@ -1,14 +1,33 @@
 # Zlochova 2230/1b
 
 ## Kontakty: 
-Nástěnku spravuje výbor SVJ. E-mail: zlochova2230@seznam.cz
 
-Pro technické a provozní záležitosti v domě kontaktujte správce/domovníka: Jakub Lyčka  tel. 774 731 738 , e-mail: jlycka@tvoeurope.com
+Nástěnku spravuje __výbor SVJ__:
+
+- e-mail: zlochova2230@seznam.cz
+
+__Technické a provozní záležitosti__ v domě kontaktujte správce/domovníka:
+
+- Jakub Lyčka, Property Manager, TVO:
+  - tel.: +420 774 731 738
+  - e-mail: jlycka@tvoeurope.com
+
 ## Aktuality:
 
-### 2026-02-18: __Kolísání teploty teplé vody (TUV)__
-V současné době není hlášen žádný výpadek a teplá voda by měla téci. Pokud zaznamenáte, že v domácnosti neteče dostatečně teplá voda, hlašte problém výboru nebo správci. Je nutno uvést, o jaký byt se jedná a v kolik hodin teplá voda netekla - velmi to pomůže zjistit příčinu. 
+### 2026-02-18: Kolísání teploty teplé vody (TUV)
+
+V současné době není hlášen žádný výpadek a teplá voda by měla téci. Pokud zaznamenáte, že v domácnosti neteče dostatečně teplá voda, __hlašte problém výboru nebo správci__. Je nutno uvést, o jaký byt se jedná a v kolik hodin teplá voda netekla - velmi to pomůže zjistit příčinu. 
 
 Dodavatel Veolia byl o náhodných výkyvech informován. Na naše zásobníky s teplou vodou budou přidána teplotní poměrová čidla, aby byla ověřena teplota vody během dne. 
 
-### 2026-02-18: __založení nástěnky__
+
+### 2026-02-18: založení nástěnky
+
+
+## Jak se přihlásit k odběru e-mailem pokud jste podnájemník
+
+Pokud si přejete být v budoucnu příjemce aktualizací prostřednictvím emailů a chcete se k odběru přihlásit je nutné, abyste z __vašeho emailu__ odeslali na zlochova2230@seznam.cz žádost obsahující:
+
+- Vaše jméno a číslo bytvé jednoty
+
+Tímto vyjádříte zároveň nutný souhlas k použití vašeho e-mailu výhradně pro tyto potřeby výborem SVJ.
