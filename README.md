@@ -24,10 +24,10 @@ Dodavatel Veolia byl o náhodných výkyvech informován. Na naše zásobníky s
 ### 2026-02-18: založení nástěnky
 
 
-## Jak se přihlásit k odběru e-mailem pokud jste podnájemník
+## Jak se přihlásit k odběru e-mailem pokud jste nájemník
 
-Pokud si přejete být v budoucnu příjemce aktualizací prostřednictvím emailů a chcete se k odběru přihlásit je nutné, abyste z __vašeho emailu__ odeslali na zlochova2230@seznam.cz žádost obsahující:
+Pokud si přejete být v budoucnu příjemce aktualizací prostřednictvím emailů a chcete se k odběru přihlásit, je nutné, abyste z __vašeho emailu__ odeslali na zlochova2230@seznam.cz žádost obsahující:
 
-- Vaše jméno a číslo bytvé jednoty
+- Vaše jméno a číslo bytové jednotky
 
 Tímto vyjádříte zároveň nutný souhlas k použití vašeho e-mailu výhradně pro tyto potřeby výborem SVJ.
