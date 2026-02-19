@@ -14,6 +14,10 @@ __Technické a provozní záležitosti__ v domě kontaktujte správce/domovníka
 
 ## Aktuality:
 
+### 2026-02-19: Výměna bytových vodoměrů na studenou a teplou vodu bude v pondělí  2. 3. 2026 - ***je nutné zpřístupnění všech bytů***.
+
+Práce začínají od horních pater (8:00 hod.) směrem dolů (do cca 15:00 hod). Jejich harmonogram se může podle situace v objektu po posouzení technikem lišit. 
+
 ### 2026-02-18: Kolísání teploty teplé vody (TUV)
 
 V současné době není hlášen žádný výpadek a teplá voda by měla téci. Pokud zaznamenáte, že v domácnosti neteče dostatečně teplá voda, __hlašte problém výboru nebo správci__. Je nutno uvést, o jaký byt se jedná a v kolik hodin teplá voda netekla - velmi to pomůže zjistit příčinu. 
@@ -21,10 +25,10 @@ V současné době není hlášen žádný výpadek a teplá voda by měla téci
 Dodavatel Veolia byl o náhodných výkyvech informován. Na naše zásobníky s teplou vodou budou přidána teplotní poměrová čidla, aby byla ověřena teplota vody během dne. 
 
 
-### 2026-02-18: založení nástěnky
+### 2026-02-18: Založení nástěnky
 
 
-## Jak se přihlásit k odběru e-mailem pokud jste nájemník
+## Jak se přihlásit k odběru e-mailem pokud jste nájemník (vlastníci jsou již zahrnuti)
 
 Pokud si přejete být v budoucnu příjemce aktualizací prostřednictvím emailů a chcete se k odběru přihlásit, je nutné, abyste z __vašeho emailu__ odeslali na zlochova2230@seznam.cz žádost obsahující:
 
