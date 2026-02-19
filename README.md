@@ -14,7 +14,7 @@ __Technické a provozní záležitosti__ v domě kontaktujte správce/domovníka
 
 ## Aktuality:
 
-### 2026-02-19: Výměna bytových vodoměrů na studenou a teplou vodu bude v pondělí  2. 3. 2026 - ***je nutné zpřístupnění všech bytů***.
+### 2026-02-19: Výměna vodoměrů v bytech bude v pondělí  2. 3. 2026 - ***je nutné zpřístupnění všech bytů***.
 
 Práce začínají od horních pater (8:00 hod.) směrem dolů (do cca 15:00 hod). Jejich harmonogram se může podle situace v objektu po posouzení technikem lišit. 
 
