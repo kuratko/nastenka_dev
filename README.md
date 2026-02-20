@@ -14,6 +14,11 @@ __Technické a provozní záležitosti__ v domě kontaktujte správce/domovníka
 
 ## Aktuality:
 
+### 2026-02-20:  Respektování Provozního řádu garáží
+
+Dovolujeme si připomenout, že návštěvnická místa slouží k parkování návštěv a po omezenou dobu. Nejsou určena k pravidelnému parkování, ani k parkování druhých či firemních vozů vlastníků nebo nájemníků. 
+
+
 ### 2026-02-19: Výměna vodoměrů v bytech bude v pondělí  2. 3. 2026 - ***je nutné zpřístupnění všech bytů***.
 
 Práce začínají od horních pater (8:00 hod.) směrem dolů (do cca 15:00 hod). Jejich harmonogram se může podle situace v objektu po posouzení technikem lišit. 
@@ -28,7 +33,7 @@ Dodavatel Veolia byl o náhodných výkyvech informován. Na naše zásobníky s
 ### 2026-02-18: Založení nástěnky
 
 
-## Jak se přihlásit k odběru e-mailem pokud jste nájemník (vlastníci jsou již zahrnuti)
+## Jak se přihlásit k odběru e-mailem pokud jste nájemník (vlastníci jsou již zahrnuti automaticky)
 
 Pokud si přejete být v budoucnu příjemce aktualizací prostřednictvím emailů a chcete se k odběru přihlásit, je nutné, abyste z __vašeho emailu__ odeslali na zlochova2230@seznam.cz žádost obsahující:
 
